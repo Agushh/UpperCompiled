@@ -7,7 +7,3 @@
 # Sistema de hasta 4 jugadores desde un mismo teclado! Cada jugador tiene sus 4 controles para el movimiento desde el mismo teclado, lo cual permite jugar a varios desde un mismo dispositivo :
 ![image](https://github.com/Agushh/UpperCompiled/assets/67559610/cad26598-5d13-424c-9d79-172830df8a03)
 
-# Escala de dificultad mediante una grafica de funcion de raiz cuadrada. 
-
-# Postprocesado con iluminaciones en tiempo real.
-
